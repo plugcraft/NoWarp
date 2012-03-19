@@ -1,0 +1,5 @@
+name: NoWarp
+main: me.flungo.bukkit.NoWarp.NoWarp
+version: 0.0.1
+description: >
+              Have areas which you don't want players being able to warp in and out of? This plugin allows you to set up areas where warping will be blocked.
